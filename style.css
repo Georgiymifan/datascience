@@ -1,0 +1,67 @@
+ul {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+	/*display: flex;*/
+}
+
+li {
+	display: inline;
+	/*float: left;*/
+	padding-left: 175px;
+	padding-right: 175px;
+	size: 150px;
+}
+
+form{
+	margin: 0;
+	padding-left: 175px;
+	padding-right: 175px;
+}
+
+a {
+	color:#F0E68C;
+	text-decoration: none;
+}
+
+h1 {
+	color:#F0E68C;
+	font-size:70px ;
+	text-align: center;
+	border: 5px #00ff7f;
+	padding: 10px;
+
+}
+
+h2	{
+	color:#F0E68C;
+	font-size:50px ;
+	text-align: center;
+	border: 5px #00ff7f;
+	padding: 10px;
+}
+
+p{
+	color:#F0E68C;
+	font-size:30px ;
+	text-align: center;
+	border: 5px #00ff7f;
+	padding: 10px;
+}
+
+body {
+	/**background: url('https://365psd.ru/images/backgrounds/Grass03.jpg');**/
+	background: url('https://365psd.ru/images/backgrounds/line-pat-003.jpg');
+	/*width: 56.33802816901408%;*/
+	text-align: center;
+}
+footer {
+
+}
+
+/* TODO:Style site-bar*/
+div {
+	cursor: pointer;
+	border: 1px
+	padding: 10px 24px;
+}
